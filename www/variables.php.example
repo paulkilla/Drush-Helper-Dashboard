@@ -1,0 +1,18 @@
+<?php
+/**
+ * Created by IntelliJ IDEA.
+ * User: paulk
+ * Date: 30/10/15
+ * Time: 3:24 PM
+ */
+
+//Change these values here
+$php = "/usr/local/bin/php";
+$drush_php = "/usr/local/Cellar/drush/6.5.0/libexec/drush.php";
+$user_name = "USER_NAME_HERE";
+$api_key = "API_KEY_HERE";
+$base_api_url = "https://www.demo.acquia-cc.com";
+//To here
+
+
+$command = "$php $drush_php ";
